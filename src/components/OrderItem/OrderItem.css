@@ -1,0 +1,34 @@
+.area-border{
+    border: 1px solid rgb(219, 191, 191);
+    border-radius: 10px;
+}
+.item-add-btn-style{
+    border: none;
+    /* padding: 5px; */
+    border-radius: 10px;
+    background-color: rgb(238, 61, 84);
+    color: white;
+    width: 100px;
+    height: 35px;
+  }
+.btn-plus{
+    border-radius: 50px;
+    color: rgb(245, 18, 86);
+    outline: none;
+    border: none;
+    background-color: white;
+    font-weight: bolder;
+}
+.btn-minus{
+    border-radius: 20px;
+    color: rgb(8, 118, 221);
+    outline: none;
+    border: none;
+    background-color: white;
+    font-weight: bolder;
+}
+.input-btn {
+    width: 40px;
+    align-items: center;
+    border: none;
+}

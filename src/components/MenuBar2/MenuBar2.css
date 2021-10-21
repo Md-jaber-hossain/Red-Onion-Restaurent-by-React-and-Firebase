@@ -1,0 +1,22 @@
+/* Navbar style */
+.menuBar-bg{
+    background-color: #ffffff;
+  }
+  .list2{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  /* Hover for NavLink */
+  .list2:hover {
+    color: rgb(238, 21, 86);
+    border-radius: 5px;
+    border-bottom: 3px solid rgb(238, 21, 86);
+  }
+  
+    

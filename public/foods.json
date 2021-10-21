@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Begel and cream cheese",
+    "price": "6.99",
+    "category": "breakfast",
+    "description": "The food is so tasty for every, taste !",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/RbTRpZg/breakfast1.png"
+  },
+  {
+    "id": 2,
+    "name": "Breakfast sandwich",
+    "price": "9.99",
+    "category": "breakfast",
+    "description": "Don’t forget the flavors",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/9p40rRK/breakfast2.png"
+  },
+  {
+    "id": 3,
+    "name": "Baked Chicken",
+    "price": "10.99",
+    "category": "breakfast",
+    "description": "sweet, salty, tart, pleasantly bitter",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/ZYc0nf5/breakfast3.png"
+  },
+  {
+    "id": 4,
+    "name": "Eggs Benedict",
+    "price": "8.99",
+    "category": "breakfast",
+    "description": "Talk about the overall feel",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/s97m8s8/breakfast4.png"
+  },
+  {
+    "id": 5,
+    "name": "Toast Croissant Fried egg",
+    "price": "19.99",
+    "category": "breakfast",
+    "description": "smoky, spicy, fresh, oily",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/Br3cKDq/breakfast5.png"
+  },
+  {
+    "id": 6,
+    "name": "Full Break Fried Egg Toast Bruch",
+    "price": "3.99",
+    "category": "breakfast",
+    "description": "Slow-cooked for eight hours",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/PzvDfqX/breakfast6.png"
+  },
+
+  {
+    "id": 7,
+    "name": "Healthy Meal Plan",
+    "price": "23.99",
+    "category": "lunch",
+    "description": " flavored and juicy lamb shank",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/k4h4hb8/lunch1.png"
+  },
+  {
+    "id": 8,
+    "name": "Fried Chicken Bento",
+    "price": "9.99",
+    "category": "lunch",
+    "description": "For a meal hard to forget",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/zbDkS9Z/lunch2.png"
+  },
+  {
+    "id": 9,
+    "name": "Tarragon Rubbed Salmon",
+    "price": "10.99",
+    "category": "lunch",
+    "description": "Steaming hot, warm, chilled, frozen.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/CJszbYn/lunch3.png"
+  },
+  {
+    "id": 10,
+    "name": "Indian Lunch",
+    "price": "8.99",
+    "category": "lunch",
+    "description": "Seasonings and spices - mention.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/94Bcg7M/lunch4.png"
+  },
+  {
+    "id": 11,
+    "name": "Beef Steak",
+    "price": "19.99",
+    "category": "lunch",
+    "description": "Freshly cracked peppercorn, dry rubs.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/ZLwxD4t/lunch5.png"
+  },
+  {
+    "id": 12,
+    "name": "Honey-Soy-Glazed Salmon",
+    "price": "7.99",
+    "category": "lunch",
+    "description": "Mention if this is a ‘house special.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/37yxnjB/lunch6.png"
+  },
+  {
+    "id": 13,
+    "name": "Salmon with Grapefruit",
+    "price": "7.99",
+    "category": "dinner",
+    "description": "Charred, crispy, firm, crunchy, and dente.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/q1T6Pcd/dinner1.png"
+  },
+  {
+    "id": 14,
+    "name": "Lemony Salmon Piccata",
+    "price": "7.99",
+    "category": "dinner",
+    "description": "Mention the cooking method - Steamed.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/jDS9mcp/dinner2.png"
+  },
+  {
+    "id": 15,
+    "name": "Beef Tenderiloin",
+    "price": "10.99",
+    "category": "dinner",
+    "description": "Char-grilled, pan-fried, stir-fried.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/8MT602P/dinner3.png"
+  },
+  {
+    "id": 16,
+    "name": "French fries with cheese",
+    "price": "12.99",
+    "category": "dinner",
+    "description": "Mention the sauces and sides.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/vjzkKwQ/dinner4.png"
+  },
+  {
+    "id": 17,
+    "name": "Garik Butter Baked Salmon",
+    "price": "7.99",
+    "category": "dinner",
+    "description": "Slow-cooked for eight hours.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/YyCPhrY/dinner5.png"
+  },
+  {
+    "id": 18,
+    "name": "Baked Chicken",
+    "price": "9.99",
+    "category": "dinner",
+    "description": "Smooth mashed potatoes and char-grilled.",
+    "description2": " food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing.",
+    "img": "https://i.ibb.co/k84gvnm/dinner6.png"
+  }
+]
